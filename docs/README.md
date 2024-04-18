@@ -10,7 +10,7 @@
 ## Videos for this course 
 - what videos will be assigned
 
-## Heading that I don't want to be included in the menu<!--ignored-->
+## Heading that I don't want to be included in the menu<!--{docsify-ignore}-->
 
 ## Activities
 - list of course activities
