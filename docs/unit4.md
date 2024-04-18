@@ -2,7 +2,7 @@
 
 * [Readings](readings.md)
 * [Videos](videos.md)
-* [Activity 1](activity4.md)
+* [Activity 4](activity4.md)
 
 ## Lecture Notes
 
