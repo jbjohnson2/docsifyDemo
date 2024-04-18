@@ -1,6 +1,6 @@
 # Activity 1
 
-- Step 1
+- Step 1 - Initialize Docsify
     ```
     <!-- index.html -->
 
