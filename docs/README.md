@@ -1,13 +1,22 @@
 # Course Website
 
-# Unit 1 
-- Unit 1 info
+## Syllabus
+- Really great and usefule information about this course
 
-# Unit 2
-- Unit 2 info
+## Readings for this course
+ - what readings will be assigned
 
-# Unit 3
-- Unit 3 info
 
-# Unit 4
-- Unit 4 info
+## Videos for this course 
+- what videos will be assigned
+
+## Heading that I don't want to be included in the menu<!--ignored-->
+
+## Activities
+- list of course activities
+
+## Projects
+- Overview of projectcts
+
+## Exams
+- exam dates/times
